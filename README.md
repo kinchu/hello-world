@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Humans!
+
+I'm a robot but I gonna be a human like YOU!!.
